@@ -19,4 +19,4 @@ jobs:
         server: ftp.mybabb.com
         username: Brandform@mybabb.com
         password: ${{ secrets.ftp_password }}
-        server-dir: /mybabb.com/Brandform/
+        server-dir: /home/mybabb/public_html
