@@ -17,6 +17,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
         server: ftp.mybabb.com
-        username: Brandform@mybabb.com
+        username: ftpNewTestCpanel@mybabb.com
         password: ${{ secrets.ftp_password }}
         server-dir: /home/mybabb/public_html
