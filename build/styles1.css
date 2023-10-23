@@ -1,12 +1,23 @@
+ 
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Itim&display=swap');
+ 
+
+
+
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
  scroll-behavior: smooth;
-  
-  }
+    }
 
   
+  #demo {
+    color: #ec9d0a;
+  }     
+      
+ 
+
   .img {
     max-width:100%;
     display: block;
@@ -16,7 +27,10 @@
 
   
  
-   
+    .topParagraph {
+    font-family: 'Creepster', cursive;
+    color: #00ec00 ;
+   }
 
 
 
